@@ -1,0 +1,20 @@
+.homepage_left {
+	background-color: #F7F9FA;
+	padding: 50px 50px;
+	line-height: 50px;
+	font-size: 20px;
+	height: -webkit-fill-available;
+}
+
+.homepage_right {
+
+}
+
+.homepage_left_text {
+	text-decoration: none;
+	color:#637282;
+}
+.homepage_left_text:hover {
+	color: #0070E0;
+	text-decoration: none;
+}

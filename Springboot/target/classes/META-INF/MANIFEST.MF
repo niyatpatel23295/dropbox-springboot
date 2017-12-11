@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: DropboxDemo
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: niyatpatel
+Implementation-Vendor-Id: com.Dropbox
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/DropboxDemo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
